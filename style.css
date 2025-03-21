@@ -20,7 +20,7 @@ html{
 .container{
   display: flex;
   flex-wrap: wrap;
-  background-color: white;
+  background-color: rgb(67, 42, 87);
   justify-content: space-around;
   align-items: flex-start;
   padding-bottom: 20px;
@@ -34,7 +34,16 @@ html{
 }
 
 h2{
-  color: black;
+  color: white;
+   font-family: "Henny Penny", system-ui;
+  font-weight: 400;
+  font-style: normal;
+} 
+h1{
+  color: white;
+    font-family: "Mystery Quest", system-ui;
+  font-weight: 400;
+  font-style: normal;
 }
 
 #start{
